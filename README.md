@@ -1,4 +1,4 @@
-## 數位聲音與藝術創作 第24組作品 流
+## 作品 流flow
 
 
 #### 執行方法
@@ -11,7 +11,7 @@
 python3 -m http.server
 ```
 
-最後開啟我們用來在p5.js及pd間傳遞訊息的小server poster.py
+最後開啟用來在p5.js及pd間傳遞訊息的小server poster.py
 ，一樣在project的根目錄下(/flow)
 ```
 python3 poster.py
